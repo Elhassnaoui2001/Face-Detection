@@ -1,7 +1,7 @@
 # Face Detection Using Haar Cascade
 
 This repository contains a Jupyter Notebook demonstrating how to perform face detection using the Haar Cascade classifier. The notebook covers the detection of multiple faces within an image.
-
+![K-means](images/image1.png)
 ## Files
 
 - `face_detection.ipynb`: A Jupyter Notebook explaining the step-by-step process of using Haar Cascade for face detection. The notebook provides code examples and explanations.
